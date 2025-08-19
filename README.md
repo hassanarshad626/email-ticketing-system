@@ -26,7 +26,7 @@ Setup and Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/email-ticketing-system.git
+git clone https://github.com/hassanarshad626/email-ticketing-system.git
 cd email-ticketing-system
 
 
